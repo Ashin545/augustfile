@@ -1,0 +1,8 @@
+total 6
+-rw-r--r-- 1 ashin 197610 18 Aug 31 18:47 file1.sh
+-rwxr-xr-x 1 ashin 197610 90 Aug 31 18:57 file2.sh*
+-rw-r--r-- 1 ashin 197610 82 Aug 31 21:47 test.txt
+-rw-r--r-- 1 ashin 197610 24 Aug 31 23:39 temp.txt
+-rw-r--r-- 1 ashin 197610 42 Aug 31 23:48 mainfile.txt
+-rw-r--r-- 1 ashin 197610 36 Sep  1 00:44 new.txt
+-rw-r--r-- 1 ashin 197610  0 Sep  1 00:46 allfiles.txt
